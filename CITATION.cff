@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this artifact bundle, please cite our paper."
+title: "BanglaArgMine-Framework"
+type: software
+authors:
+  - family-names: "Ahmed"
+    given-names: "Syed Salman"
+  - family-names: "Alif"
+    given-names: "Shahjada"
+  - family-names: "Wang"
+    given-names: "Haochen"
+date-released: 2026-04-03
+version: 1.0.0
+keywords:
+  - "argument mining"
+  - "Bangla"
+  - "BanglaBERT"
+  - "mBERT"
+  - "NLP"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "Advancing Argument Mining in Bangla: A Sentence-Level Resource Framework with Dataset, Annotation Guidelines, and BanglaBERT+mBERT Baselines"
+  authors:
+    - family-names: "Ahmed"
+      given-names: "Syed Salman"
+    - family-names: "Alif"
+      given-names: "Shahjada"
+    - family-names: "Wang"
+      given-names: "Haochen"
+  year: 2025
