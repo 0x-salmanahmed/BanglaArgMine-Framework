@@ -32,6 +32,8 @@ Baselines:
 
 Seeds: {42, 1337, 2025}.
 
+![training_score (BanglaBERT + mBERT across both tasks)](figures/fig00_all_models_epoch_seed_f1.png)
+
 | Task | Model | Precision | Recall | F1 |
 |---|---|---:|---:|---:|
 | Component | BanglaBERT | 0.9395 ± 0.0035 | 0.9446 ± 0.0023 | **0.9418 ± 0.0028** |
@@ -46,7 +48,7 @@ Harder semantic setting (Support-vs-Attack only, excluding Non-related): macro-F
 
 The paper includes a single consolidated, row-normalised 2×2 confusion figure:
 
-![Best-seed confusion matrices (BanglaBERT + mBERT across both tasks)](paper/figures/fig03_confusion.png)
+![Best-seed confusion matrices (BanglaBERT + mBERT across both tasks)](figures/fig03_confusion.png)
 
 ### Relation splits (included)
 
